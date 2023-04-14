@@ -44,7 +44,7 @@ nav ul li a.active:before {
     content: "";
     width: 35%;
     height: 1px;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(175, 19, 19);
     bottom: -6px;
 }
 
