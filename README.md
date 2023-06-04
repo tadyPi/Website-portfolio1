@@ -1,1 +1,1 @@
-# static my vanilla html and css website, current build is my first webpage.
+# static html and css website, current build is my first webpage.
